@@ -1,0 +1,4 @@
+INFO    2022-07-02 08:20:39,522 [main] listeners.Log  - property file loaded
+INFO    2022-07-02 08:20:39,542 [main] listeners.Log  - hello
+INFO    2022-07-02 08:20:39,557 [main] listeners.Log  - iside method
+INFO    2022-07-02 08:20:39,557 [main] listeners.Log  - INside method 2 fo test 2
